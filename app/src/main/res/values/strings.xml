@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Aston_intensive_hometask_3_2</string>
+    <string name="download_with_glide">download with glide</string>
+    <string name="download_with_native_tools">download with native tools</string>
+    <string name="image">image</string>
+    <string name="your_url">your url</string>
+</resources>
